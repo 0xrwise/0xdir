@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-  .d88b.  db    db d8888b. d888888b d8888b.
-.8P  88. `8b  d8' 88  `8D   `88'   88  `8D
-88  d'88  `8bd8'  88   88    88    88oobY'
-88 d' 88  .dPYb.  88   88    88    88`8b  
-`88  d8' .8P  Y8. 88  .8D   .88.   88 `88.
- `Y88P'  YP    YP Y8888D' Y888888P 88   YD
-```
-
 **A minimal, directory-style Jekyll blog theme.**
 
 [![Jekyll](https://img.shields.io/badge/Jekyll-4.x-red?style=flat-square&logo=jekyll)](https://jekyllrb.com)

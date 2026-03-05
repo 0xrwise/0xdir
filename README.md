@@ -5,7 +5,7 @@
 [![Jekyll](https://img.shields.io/badge/Jekyll-4.x-red?style=flat-square&logo=jekyll)](https://jekyllrb.com)
 [![License](https://img.shields.io/badge/License-MIT-black?style=flat-square)](LICENSE)
 [![Based on](https://img.shields.io/badge/Based%20on-Elementary-555?style=flat-square)](https://github.com/abhn/Elementary)
-[![Made by](https://img.shields.io/badge/Made%20by-0xrfi-111?style=flat-square)](https://github.com/0xrfi)
+[![Made by](https://img.shields.io/badge/Made%20by-0xrwise-111?style=flat-square)](https://github.com/0xrwise)
 
 <br/>
 
@@ -73,7 +73,7 @@ My Blog
 ```bash
 # 1. Use this template (click "Use this template" button above)
 #    or clone directly:
-git clone https://github.com/0xrfi/0xdir.git my-blog
+git clone https://github.com/0xrwise/0xdir.git my-blog
 cd my-blog
 
 # 2. Install dependencies
@@ -184,10 +184,10 @@ git push -u origin main
 
 **0xdir** is built on top of [Elementary](https://github.com/abhn/Elementary) by [Nagekar Abhishek](https://github.com/abhn), which is licensed under GPL-3.0.
 
-Custom design, CSS rewrite, dark mode system, and all modifications by **M. Rafi Akbar** ([@0xrfi](https://github.com/0xrfi)) — released under the [MIT License](LICENSE).
+Custom design, CSS rewrite, dark mode system, and all modifications by **M. Rafi Akbar** ([@0xrwise](https://github.com/0xrwise)) — released under the [MIT License](LICENSE).
 
 ```
-Copyright (c) 2026 M. Rafi Akbar (0xrfi)
+Copyright (c) 2026 M. Rafi Akbar (0xrwise)
 ```
 
 ---
@@ -196,6 +196,6 @@ Copyright (c) 2026 M. Rafi Akbar (0xrfi)
 
 made with ♥ and a terminal
 
-**[⭐ star this repo if you like it](https://github.com/0xrfi/0xdir)**
+**[⭐ star this repo if you like it](https://github.com/0xrwise/0xdir)**
 
 </div>

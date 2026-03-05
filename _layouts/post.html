@@ -26,10 +26,6 @@ layout: default
       {{ content }}
     </section>
 
-    <hr class="post-divider"/>
-
-    {% include featured.html %}
-
     <section class="pagination">
       {% if page.previous.url %}
         <a class="pagination-prev" href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>

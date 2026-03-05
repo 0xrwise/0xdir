@@ -1,20 +1,13 @@
-title: "My Blog"
-name:  "My Blog"
-description: "A simple, clean Jekyll blog"
+title: "0xrwise - Researcher"
+name:  "0xrwise"
+description: "Research, Reflect, Wisdom."
 url: "https://yourdomain.com"
 author:
-  name: "Your Name"
+  name: "0xrwise"
 
 # Enables dark/light toggle button in nav
 javascript_enabled: true
 
-# Featured posts section title (shown at bottom of each post)
-featured_posts_title: "Featured"
-
-# Featured posts — add URLs of posts you want to feature
-featured_posts:
-  - url: /essays/sample-post
-    title: Sample Post
 
 # Collections
 collections:

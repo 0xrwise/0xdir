@@ -9,7 +9,7 @@
 
 <br/>
 
-*Clean like a terminal. Fast like a static site should be.*
+*Research, Reflect, Wisdom.*
 
 </div>
 
